@@ -1,8 +1,17 @@
  
 Intro to Cryptography 
 User Manual 
+
+Introduction
+In an era where data security is paramount, the need for robust encryption tools has never been greater. With the increasing frequency of cyber threats and data breaches, protecting sensitive information has become a critical concern for individuals and organizations alike. The Advanced Encryption Standard (AES) has emerged as a leading encryption algorithm, widely recognized for its strength and efficiency in securing data. However, the technical complexity of implementing AES encryption has often been a barrier to its widespread adoption, particularly among users with limited technical expertise in cryptography.
+This project, titled "Advanced Encryption Standard (AES) File Encryption and Decryption Tool," aims to address this gap by developing a user-friendly tool that simplifies the process of encrypting and decrypting files using AES. The primary objective is to make AES encryption more accessible and approachable for a broader audience, thereby enhancing the overall security of data management practices.
+The project was undertaken as part of the coursework for CIS 628 Introduction to Cryptography at Syracuse University in the Fall of 2023. It represents a collaborative effort to integrate advanced cryptographic techniques with ease of use, ensuring that strong data protection is not just the domain of experts but is available to everyone.
+In this report, we delve into the execution, significance, literature background, results, and challenges of the project. The report aims to provide a comprehensive overview of the project's development process, its contributions to the field of cryptography, and its potential impact on data security practices.
  
  
+
+To run the Project follow the steps below!
+
 Step 1 
 Open the project folder in a code editor ( VS code, Sublime, Atom, etc)  Open terminal and navigate to the project directory. 
  
